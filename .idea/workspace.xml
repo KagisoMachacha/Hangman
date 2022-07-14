@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b0794d2-7914-4b87-8a97-06a6f7d15aea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/za/co/wethinkcode/examples/hangman/AnswerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hangman/AnswerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/za/co/wethinkcode/examples/hangman/HangmanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hangman/HangmanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/za/co/wethinkcode/examples/hangman/PlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hangman/PlayerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

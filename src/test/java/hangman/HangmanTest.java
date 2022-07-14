@@ -1,4 +1,4 @@
-package za.co.wethinkcode.examples.hangman;
+package hangman;
 
 import org.junit.jupiter.api.Test;
 import java.io.*;
