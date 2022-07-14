@@ -3,3 +3,15 @@ proteas
 roses
 sugarbushes
 aloe
+rose
+lily
+orchid
+carnation
+hyacinth
+peruvian lily
+chrysanthemum
+gladioulus
+anemone
+poppy
+sunflower
+daffodil
